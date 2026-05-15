@@ -34,6 +34,6 @@
 ### 1. 电路原理图
 系统核心逻辑涵盖了 STM32 最小系统、2S 锂电池分压采样电路以及与 DJI O4 天空端的串口通信链路。
 <div align="center">
-  <img src="images/SCH_自容式图传系统原理图_1-P1_2026-05-15.png" width="80%" title="系统原理图">
+  <img src="images/system_schematic.png" width="80%" title="系统原理图">
   <p>图 1：基于 STM32 与 DJI O4 的系统原理图</p>
 </div>
